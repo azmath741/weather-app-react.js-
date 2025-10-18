@@ -1,0 +1,12 @@
+.searchBox {
+  text-align: center;
+  display: inline;
+}
+
+.city {
+  width: 250px;
+}
+
+.btn {
+  height: 2.5rem;
+}
