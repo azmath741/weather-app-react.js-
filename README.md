@@ -1,16 +1,28 @@
-# React + Vite
+## 🏁 Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Mausam Samachar** (“Weather News”) is a web application that fetches and displays the current weather of a city, along with news articles relevant to that region or topic. It’s ideal for users who want quick weather updates plus local / global news in one glance.
 
-Currently, two official plugins are available:
+---
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search weather by city  
+- Display temperature, humidity, weather conditions  
+- Show relevant news headlines  
+- Responsive UI  
+- Error handling (city not found, API errors)    
 
-## React Compiler
+---
+## 🧰 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Frontend: (e.g. React / Vue / plain JS)  
+- API(s): (e.g. OpenWeatherMap API)  
+- CSS / UI library: (e.g. Material UI)  
+- Deployment: Netlify  
 
-## Expanding the ESLint configuration
+---
+## 🌐 Demo / Live Site
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can view the live project here:  
+[https://mausam-samachar-098.netlify.app/](https://mausam-samachar-098.netlify.app/)
+
+---
